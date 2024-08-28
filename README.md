@@ -24,16 +24,16 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- . I learned how to make GitHub files using VS Code and Terminal and how to commit them and transfer them from desktop to website
 
 **I struggled with:** (repeat as needed)
-- .
+- . I struggled with the "git push" command on Mac, on my terminal it kept asking for my password for GitHub, but when I entered my password, it would tell my authentication failed, so I ended up being able to commit and push through GitHub Desktop
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- . Should I be using the terminal on my Mac to commit? GitHub Desktop worked well but don't know what best practice is.
 
 **💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
-
+20/20
 
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
